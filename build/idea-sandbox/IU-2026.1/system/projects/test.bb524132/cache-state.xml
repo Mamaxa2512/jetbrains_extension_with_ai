@@ -1,0 +1,70 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker"><![CDATA[{
+  "projectData": {
+    "GRADLE": {
+      "/home/anonim/IdeaProjects/test": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "/home/anonim/IdeaProjects/test/gradle/wrapper/gradle-wrapper.properties": 4060517652,
+            "/home/anonim/IdeaProjects/test/build.gradle.kts": 1206153540,
+            "/home/anonim/IdeaProjects/test/settings.gradle.kts": 4255308825
+          }
+        }
+      }
+    }
+  }
+}]]></component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-9.3.0-bin/79n14ral3mx1ozqr3csh2u872/gradle-9.3.0" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9.3.0" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="test" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="test" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="8e3055d1bca9b934b251b75b8ffc1c30" value="1777032905083" />
+    </timestamps>
+  </component>
+  <component name="ProjectDependenciesModelState">
+    <option name="PROJECT_STATE" value="[{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.junit&quot;,&quot;name&quot;:&quot;junit-bom&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;6.0.0&quot;},&quot;coordinates&quot;:&quot;maven:org.junit:junit-bom:6.0.0&quot;,&quot;searchCoordinates&quot;:&quot;org.junit:junit-bom:6.0.0&quot;,&quot;searchKey&quot;:&quot;034c087e5216bd5a85a14ffd7f141049328ed3b7e76e8f9c32702a16cf636b4f&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.junit:junit-bom:6.0.0&quot;}]" />
+  </component>
+  <component name="RestoreUpdateTree"><![CDATA[{}]]></component>
+</project>

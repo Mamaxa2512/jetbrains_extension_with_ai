@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="12" l="1777032965822" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1777032940090" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1777032965133" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1777032942880" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1777032972268" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1777032893698" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1777032872658" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1777032987304" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1777032980941" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1777032898371" />
+    </e>
+  </component>
+</application>

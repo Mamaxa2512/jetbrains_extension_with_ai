@@ -1,0 +1,17 @@
+<idea-plugin>
+  <idea-version since-build="261" until-build="261.*" />
+  <version>1.0-SNAPSHOT</version>
+  <id>com.example.mindsaver</id>
+  <name>MindSaver AI</name>
+  <vendor email="hello@example.com" url="https://example.com">MindSaverTeam</vendor>
+  <description><![CDATA[<b>AI Context Restorer (MindSaver)</b><br>
+    Helps developers restore their context after a meeting or a long break. It analyzes uncommitted changes, open files, and recent IDE events, then uses AI to generate an instant "Resume Brief" telling you exactly what you were doing.]]></description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij" />
+  <actions>
+    <action id="MindSaver.GenerateBrief" class="com.example.mindsaver.action.ResumeAction" text="Generate Resume Brief" description="Generates an AI brief based on your current workspace context">
+      <add-to-group group-id="ToolsMenu" anchor="last" />
+      <keyboard-shortcut keymap="$default" first-keystroke="ctrl alt shift R" />
+    </action>
+  </actions>
+</idea-plugin>

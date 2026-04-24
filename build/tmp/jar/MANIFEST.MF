@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: Gradle 8.13
+Version: 1.0-SNAPSHOT
+Build-JVM: 21.0.10 (Ubuntu 21.0.10+7-Ubuntu-122.04)
+Build-OS: Linux 6.8.0-107-generic amd64
+Build-Plugin: IntelliJ Platform Gradle Plugin
+Build-Plugin-Version: 2.10.0
+Platform-Type: IU
+Platform-Version: 2026.1
+Platform-Build: 261.22158.277
+Kotlin-Available: true
+Kotlin-Stdlib-Bundled: false
+Kotlin-Version: 2.3.0
+
